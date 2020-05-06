@@ -210,7 +210,7 @@ input[type=submit] {
   height: 50px;
   width: auto;
   float:left;
-  margin: 5px 0;
+  margin: 10px 0;
 }
 
 .main-nav {
@@ -221,7 +221,7 @@ input[type=submit] {
 .main-nav li {
     display: inline-block;
     margin-left: 40px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .main-nav li a:link,
@@ -240,7 +240,6 @@ input[type=submit] {
 .main-nav li a:hover,
 .main-nav li a:active {
   border-bottom: 2px solid #e67e22;
-
 }
 
 .sticky {
@@ -260,7 +259,7 @@ input[type=submit] {
 
 .sticky .logo-black { display: block; }
 .sticky .logo { display: none; }
-.main-nav { margin-top: 18px; }
+.main-nav { margin-bottom: 20px; }
 
 /*
 how it works
